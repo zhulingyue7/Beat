@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="white">#ffffffff</color>
+<color name="black">#ff000000</color>
+<color name="red">#ffff0000</color>
+
+<color name="main_center_bg">#ffefe3c9</color>
+<color name="mainlisttext">#ffee4a03</color>
+
+<color name="status_view">#50000000</color>
+<color name="status_text">#ffffffff</color>
+<color name="transparent">#00000000</color>
+<color name="result_view">#b0000000</color>
+<color name="viewfinder_frame">#ff000000</color>
+<color name="viewfinder_laser">#ffff0000</color>
+<color name="viewfinder_mask">#60000000</color>
+<color name="decode_result_text">#ffffffff</color>
+<color name="tao_search_title_bg">#ffff5500</color>
+<color name="tao_search_main_bg">#ffeeeeee</color>
+<color name="tao_list_title">#ff078f12</color>
+<color name="tao_list_nick">#ff666666</color>
+<color name="tao_list_price">#ffff5500</color>
+<color name="tao_list_location">#ff0023a7</color>
+<color name="code_item_title">#ff666666</color>
+<color name="code_item_date">#ff999999</color>
+
+<color name="books_list_brief_name">#ff078f12</color>
+<color name="books_list_brief_isbn13">#ff666666</color>
+<color name="books_list_brief_author">#ffff5500</color>
+<color name="books_list_brief_price">#ffff5500</color>
+<color name="books_list_brief_authorintro">#000000</color>
+<color name="books_list_brief_summary">#000000</color>
+
+<color name="books_list_comment_title">#ff078f12</color>
+<color name="books_list_comment_author">#ffff5500</color>
+<color name="books_list_comment_summary">#ff078f12</color>
+<color name="books_list_comment_from">#666666</color>
+<color name="books_list_comment_time">#0023a7</color>
+<color name="books_list_comment_service_error">#ff000000</color>
+
+<color name="books_list_net_price_name">#4aae5a</color>
+<color name="books_list_net_price_shop_name">#666666</color>
+<color name="books_list_net_price">#ffff5500</color>
+<color name="books_list_net_price_service_error">#ff000000</color>
+
+<color name="app_share_resource_name">#ff078f12</color>
+<color name="app_share_resource_total">#666666</color>
+<color name="app_share_resource_size">#ffff5500</color>
+<color name="app_share_resource_time">#0023a7</color>
+</resources>

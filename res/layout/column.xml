@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/text_lifeT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:text="生命："
+        android:textColor="@color/books_list_net_price_name"
+        android:textSize="36px" />
+
+    <TextView
+        android:id="@+id/text_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        android:textSize="36px"
+        android:textColor="@color/decode_result_text"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/text_life"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/text_lifeT"
+        android:layout_alignBottom="@+id/text_lifeT"
+        android:layout_toRightOf="@+id/text_lifeT"
+        android:textSize="36px"
+        android:textColor="@color/books_list_net_price_name"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/text_scoreT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/text_score"
+        android:layout_toLeftOf="@+id/text_score"
+        android:text="分数："
+        android:textColor="@color/decode_result_text"
+        android:textSize="36px" />
+
+</RelativeLayout>
